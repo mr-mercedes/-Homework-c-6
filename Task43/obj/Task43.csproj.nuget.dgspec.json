@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ekyd9\\OneDrive\\Рабочий стол\\Programer\\Homework to c#6\\Task43\\Task43.csproj": {}
+    "C:\\Users\\Ekyd9\\OneDrive\\Рабочий стол\\Programer\\Homework to c#6\\task43\\Task43.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ekyd9\\OneDrive\\Рабочий стол\\Programer\\Homework to c#6\\Task43\\Task43.csproj": {
+    "C:\\Users\\Ekyd9\\OneDrive\\Рабочий стол\\Programer\\Homework to c#6\\task43\\Task43.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ekyd9\\OneDrive\\Рабочий стол\\Programer\\Homework to c#6\\Task43\\Task43.csproj",
+        "projectUniqueName": "C:\\Users\\Ekyd9\\OneDrive\\Рабочий стол\\Programer\\Homework to c#6\\task43\\Task43.csproj",
         "projectName": "Task43",
-        "projectPath": "C:\\Users\\Ekyd9\\OneDrive\\Рабочий стол\\Programer\\Homework to c#6\\Task43\\Task43.csproj",
+        "projectPath": "C:\\Users\\Ekyd9\\OneDrive\\Рабочий стол\\Programer\\Homework to c#6\\task43\\Task43.csproj",
         "packagesPath": "C:\\Users\\Ekyd9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ekyd9\\OneDrive\\Рабочий стол\\Programer\\Homework to c#6\\Task43\\obj\\",
+        "outputPath": "C:\\Users\\Ekyd9\\OneDrive\\Рабочий стол\\Programer\\Homework to c#6\\task43\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ekyd9\\AppData\\Roaming\\NuGet\\NuGet.Config"
